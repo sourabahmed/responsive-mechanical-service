@@ -7,8 +7,8 @@ const Services = ({service}) => {
     return (
         <div className="service">
             <img src={img} alt="" />
-            <h3>SERVICE NAME: {name}</h3>
-            <h4>Price: ${price}</h4>
+            <h3>{name}</h3>
+            <h4>${price}</h4>
             <p>{description}</p>
         </div>
     );
