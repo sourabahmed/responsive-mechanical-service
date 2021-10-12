@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"ENGINE DIAGONOSTIC",
+        "price":"300",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam temporibus ipsum rerum, dolores labore commodi amet suscipit culpa aspernatur soluta.",
+        "img":"https://i.ibb.co/DML6Ry4/a.png"
+    },
+    {
+        "id":2,
+        "name":"WHEEL ALIGNMENT",
+        "price":"100",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam temporibus ipsum rerum, dolores labore commodi amet suscipit culpa aspernatur soluta.",
+        "img":"https://i.ibb.co/xLvfZnd/f.png"
+    },
+    {
+        "id":3,
+        "name":"OIL CHANGING",
+        "price":"150",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam temporibus ipsum rerum, dolores labore commodi amet suscipit culpa aspernatur soluta.",
+        "img":"https://i.ibb.co/SNhD2Gf/e.png"
+    },
+    {
+        "id":4,
+        "name":"BREAKE REPARING",
+        "price":"180",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam temporibus ipsum rerum, dolores labore commodi amet suscipit culpa aspernatur soluta.",
+        "img":"https://i.ibb.co/Q6BRC3h/d.png"
+    },
+    {
+        "id":5,
+        "name":"WASH AND GALSSING",
+        "price":"250",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam temporibus ipsum rerum, dolores labore commodi amet suscipit culpa aspernatur soluta.",
+        "img":"https://i.ibb.co/XC9LDBM/b.png"
+    },
+    {
+        "id":6,
+        "name":"COMPLETE ANALYSIS",
+        "price":"400",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam temporibus ipsum rerum, dolores labore commodi amet suscipit culpa aspernatur soluta.",
+        "img":"https://i.ibb.co/XyCjQRc/c.png"
+    }
+]
