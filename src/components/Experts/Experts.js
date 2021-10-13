@@ -3,6 +3,7 @@ import Expert from '../Expert/Expert';
 
 const Experts = () => {
     // const [experts, setExperts] = useState([]);
+    // console.log(experts);
     // useEffect(() => {
     //     fetch('experts.json')
     //     .then(res => res.json)
@@ -35,7 +36,7 @@ const Experts = () => {
         }
     ]
     return (
-        <div>
+        <div id="experts">
             <h1>Our Expertize</h1>
             <div className="row m-2 m-md-4 m-lg-5 gx-3 ">
                 {
