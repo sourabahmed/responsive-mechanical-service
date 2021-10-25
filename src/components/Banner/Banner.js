@@ -12,7 +12,7 @@ const Banner = () => {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="http://www.simpleimageresizer.com/_uploads/photos/c925945a/istockphoto-914314364-170667a_1300x500.jpg"
+                        src={banner1}
                         alt="First slide"
                     />
                     <Carousel.Caption>
@@ -23,7 +23,7 @@ const Banner = () => {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="http://www.simpleimageresizer.com/_uploads/photos/c925945a/istockphoto-1285071153-170667a_1300x500.jpg"
+                        src={banner2}
                         alt="Second slide"
                     />
 
@@ -35,7 +35,7 @@ const Banner = () => {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="http://www.simpleimageresizer.com/_uploads/photos/c925945a/istockphoto-1289143731-170667a_1300x500.jpg"
+                        src={banner3}
                         alt="Third slide"
                     />
 
